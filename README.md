@@ -1,1 +1,1 @@
-my first readme
+i'm learning how to code
